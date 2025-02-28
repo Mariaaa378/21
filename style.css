@@ -4,5 +4,7 @@ font-family: 'Arial'
 font-weight: bold;
 color: green
 }
-body {background-color: rgb(244, 227, 215);}
+body {
+    background-color: rgb(244, 227, 215);
+}
 
